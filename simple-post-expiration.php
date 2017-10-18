@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Simple Post Expiration
+ * Plugin Name: Simple Post Expiration Two
  * Plugin URL: http://pippinsplugins.com/simple-post-expiration
  * Description: A simple plugin that allows you to set an expiration date on posts. Once a post is expired, "Expired" will be prefixed to the post title.
  * Version: 1.0.1
- * Author: Pippin Williamson
- * Author URI: http://pippinsplugins.com
+ * Author: Original Author Pippin Williamson modified by Jeff Mattson
+ * Author URI: https://github.com/jeffreysmattson
  * Contributors: mordauk, rzen
  * Text Domain: pw-spe
  * Domain Path: languages
